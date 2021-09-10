@@ -24,7 +24,7 @@ $ npm install
 - Get your API Key
 - Paste it into a file named `.env`. (Use the format of example.env)
 
-# Use
+# Usage
 
 ```
 $ node dist/app --ip <IP to track> --language en
