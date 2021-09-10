@@ -2,7 +2,7 @@
 
 This tool made in NodeJS lets you know all the relevant information about an IP. 
 
-# How Does This Tool Works?
+# How Does This Tool Work?
 
 This application makes HTTP Requests to IP Stack's API. Which responses with a large information about an IP depending on which plan you've purchased. (There is a FREE plan)
 
